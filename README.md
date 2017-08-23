@@ -28,4 +28,4 @@ If you noticed any bugs feel free to open an issue. Pull requests are also welco
 ## How to use
 For chrome use Stylish extension: https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
 
-Copy the code from `trello.css` file and paste it to Stylish (or another extension you use). Ensure to specify that it applies to URLs on trello.com domain2
+Copy the code from `trello.css` file and paste it to Stylish (or another extension you use). Ensure to specify that it applies to URLs on trello.com domain
