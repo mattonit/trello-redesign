@@ -1,6 +1,8 @@
 # Trello redesign
 Make your Trello more beautiful in an easy way!
 
+![](http://i.imgur.com/cp5sUs7.jpg)
+
 ## Why?
 Trello is a great tool that helps the people to manage their work or private tasks. I use Trello every day and I think it works great, but unfortunately, it doesn't look as good as it works
 
