@@ -414,12 +414,33 @@ hr {
     font-size: .8rem;
     font-weight:100;
     text-transform:uppercase;
-    box-shadow:none;
+    box-shadow:none !important;
 }
 
 .button.primary.disabled, .button.primary.disabled:active, .button.primary.disabled:hover, button.primary.disabled, button.primary.disabled:active, button.primary.disabled:hover, input[type=button].primary.disabled, input[type=button].primary.disabled:active, input[type=button].primary.disabled:hover, input[type=submit].primary.disabled, input[type=submit].primary.disabled:active, input[type=submit].primary.disabled:hover, input[type=submit].primary:disabled, input[type=submit].primary:disabled:hover {
     background: #7eaaff;
     color: rgba(255,255,255,.5);
+}
+
+.card-detail-item-add-button {
+    background: #c8daff;
+}
+
+.card-detail-item-add-button:hover {
+    background: #dae6ff;
+}
+
+.window {
+    background-color:#fff;
+}
+
+.button-link:hover {
+    background: #4886FF;
+    border-color: #298FCA #298FCA #026AA7;
+}
+
+.on .icon-sm.light {
+    color:#fff;
 }
 
 /* members */
