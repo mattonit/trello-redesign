@@ -17,7 +17,7 @@ Thanks to this project your Trello can be beautiful too! I've completely redesig
 - Removes text-decoration in many cases
 
 ## Todo
-- Profile page
+- ~~Profile page~~
 - Tabs
 - Text fields
 - Login page
